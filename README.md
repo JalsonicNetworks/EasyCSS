@@ -9,7 +9,7 @@ Include Dependencies
 To use EasyCSS, include the following source file in your web page:
 
   ```html
-	<link rel="stylesheet" type="text/css" href="">
+	<link rel="stylesheet" type="text/css" href="http://opinion.jalsonic.com/svn/base/stylesheets/EasyCSS.css">
   ```
 
 Works Everywhere
@@ -23,4 +23,4 @@ Reporting Bugs
 ----------------------
 If you find an issue with EasyCSS, please report it via the GitHub issue tracker and via E-mail : github@jalsonic.com. 
 
-Designed, Built and Maintained by [Imran Malik](http://Imranamanat.com) imran@imranamanat.com and [Jalsonic Secure Team](http://jalsonic.com/secure). A Division of [Jalsonic Networks](http://jalsonic.com).
+Designed, Built and Maintained by [Imran Amanat](http://Imranamanat.com) imran@imranamanat.com and [Jalsonic Secure Team](http://jalsonic.com/secure). A Division of [Jalsonic Networks](http://jalsonic.com).
