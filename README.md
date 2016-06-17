@@ -19,4 +19,8 @@ EasyCSS is a cross-browser front-end framework for the websites and mobile web a
 
 ![Jalsonic Opinion](http://jalsonic.com/assets/github/crossbrowser.jpg)
 
+Reporting Bugs
+----------------------
+If you find an issue with EasyCSS, please report it via the GitHub issue tracker and via E-mail : github@jalsonic.com. 
+
 Designed, Built and Maintained by [Imran Malik](http://Imranamanat.com) imran@imranamanat.com and [Jalsonic Secure Team](http://jalsonic.com/secure). A Division of [Jalsonic Networks](http://jalsonic.com).
