@@ -9,7 +9,7 @@ Include Dependencies
 To use EasyCSS, include the following source file in your web page:
 
 	```html
-	<link rel="stylesheet" type="text/css" href="">
+		<link rel="stylesheet" type="text/css" href="">
 	```
 
 Works Everywhere
